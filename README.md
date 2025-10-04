@@ -1,20 +1,7 @@
-# TASK 3  DASHBOARD DEVELOPMENT
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: AHAMMED IRFAN TS
-
-*INTERN ID*: CT04DF2944
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
 
 ## Obejective 
 
--To create an interactive Power BI dashboard that visualizes key COVID-19 metrics by country, enabling clear insights and data-driven analysis as part of the CODTECH Internship Task 3.
+-To create an interactive Power BI dashboard that visualizes key COVID-19 metrics by country, enabling clear insights and data-driven analysis
 
 ## Key Visuals Included
 
