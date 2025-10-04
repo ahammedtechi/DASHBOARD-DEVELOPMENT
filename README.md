@@ -28,5 +28,5 @@ covid-dashboard-irfan/
 OVID_Country_Summary.csv         # Cleaned and structured dataset
 COVID_Dashboard_Irfan.pdf         # Exported dashboard as PDF
 
-##result
+## result
 <img width="1168" height="634" alt="COVID_Dashboard_Irfan" src="https://github.com/user-attachments/assets/024158b6-9038-40d8-a597-32ce19220b63" />
